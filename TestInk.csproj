@@ -1,0 +1,11 @@
+<Project Sdk="Godot.NET.Sdk/4.0.0-beta.3">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ink-engine-runtime">
+      <HintPath>ink-engine-runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
