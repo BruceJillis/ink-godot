@@ -20,6 +20,7 @@ The installation process is a bit brittle at the moment, but as long as you're d
 	</Reference>
   </ItemGroup>
 	```
+	
 1. Build your project.
 1. Enable *godot-ink* in the plugins tab of the project settings window.
 
