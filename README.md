@@ -1,6 +1,6 @@
 # godot-ink
 
-An [ink](https://github.com/inkle/ink) integration for [Godot Engine](https://github.com/godotengine/godot).  Based on 3.2 code by [Paulloz](https://github.com/paulloz/godot-ink/).
+An [ink](https://github.com/inkle/ink) integration for [Godot Engine 4](https://github.com/godotengine/godot).  Based on 3.2 code by [Paulloz](https://github.com/paulloz/godot-ink/).
 
 ## Installation
 
